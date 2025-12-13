@@ -45,3 +45,27 @@
 ### 作成・更新したファイル
 - section3-html/about.html（新規作成）
 - section3-html/chickens.html（内容を更新）
+
+---
+
+## 2025年12月13日（土）
+
+### 視聴内容
+- Udemy Web Developer Bootcamp
+- 視聴時間：1時間15分以上
+
+### 学んだこと
+- 続・HTML入門
+    - section4：VSCodeのEmmetについてまで
+- HTMLフォームとテーブル
+    - section5：HTMLのテーブルまで
+
+### 感想・メモ
+- HTMLの基礎要素を一通り学習できた
+- tableタグとはそもそもなんなのかを知れた
+- セマンティックHTMLの概念は新鮮だった
+- 限られた時間の中でも集中できて良かった
+
+### 作成・更新したファイル
+- html-practice/emmetdemo.html（新規作成）
+- html-practice/chickens.html（内容を更新）
