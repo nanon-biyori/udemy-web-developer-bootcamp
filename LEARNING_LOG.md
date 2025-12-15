@@ -107,3 +107,27 @@
 
 - html-practice/heaviest_birds.html（新規作成）
 - html-practice/forms.html（新規作成）
+
+---
+
+## 2025 年 12 月 15 日（月）
+
+### 視聴内容
+
+- Udemy Web Developer Bootcamp
+- 視聴時間：1 時間 30 分以上
+
+### 学んだこと
+
+- HTML フォームとテーブル
+  - section5：HTML のボタンまで
+
+### 感想・メモ
+
+- インプット要素の種類を知れた
+- ラベルの使い方を繰り返し再生してインプットした
+- HTML のボタンを知れた
+
+### 作成・更新したファイル
+
+- html-practice/forms.html（内容を更新）
