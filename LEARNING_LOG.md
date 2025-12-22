@@ -131,3 +131,26 @@
 ### 作成・更新したファイル
 
 - html-practice/forms.html（内容を更新）
+
+---
+
+## 2025 年 12 月 22 日（月）
+
+### 視聴内容
+
+- Udemy Web Developer Bootcamp
+- 視聴時間：30 分以上
+
+### 学んだこと
+
+- HTML フォームとテーブル
+  - section5：Google/Reddit/Youtube の検索で遊んでみるまで
+
+### 感想・メモ
+
+- name 属性について知れた
+- 転職活動が落ち着いたので 1 週間ぶりに慣らしがてら学習できた
+
+### 作成・更新したファイル
+
+- html-practice/forms.html（内容を更新）
