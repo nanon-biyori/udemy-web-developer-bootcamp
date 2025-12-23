@@ -154,3 +154,27 @@
 ### 作成・更新したファイル
 
 - html-practice/forms.html（内容を更新）
+
+---
+
+## 2025 年 12 月 23 日（火）
+
+### 視聴内容
+
+- Udemy Web Developer Bootcamp
+- 視聴時間：30 分以上
+
+### 学んだこと
+
+- HTML フォームとテーブル
+  - section5：フォームの演習問題まで
+
+### 感想・メモ
+
+- ラジオボタン・チェックボックスやセレクト
+- range や textarea について
+- 今日はざっくりと知れた
+
+### 作成・更新したファイル
+
+- html-practice/forms.html（内容を更新）
