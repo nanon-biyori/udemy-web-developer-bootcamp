@@ -162,19 +162,22 @@
 ### 視聴内容
 
 - Udemy Web Developer Bootcamp
-- 視聴時間：30 分以上
+- 視聴時間：2 時間以上
 
 ### 学んだこと
 
 - HTML フォームとテーブル
-  - section5：フォームの演習問題まで
+  - section5：登録フォームを作ってみよう（解答）まで
 
 ### 感想・メモ
 
 - ラジオボタン・チェックボックスやセレクト
 - range や textarea について
-- 今日はざっくりと知れた
+- フォームの演習問題
+- HTML5 のフォームバリデーション
+- 登録フォームを HTML で作った
 
 ### 作成・更新したファイル
 
 - html-practice/forms.html（内容を更新）
+- html-practice/marathonForm.html（新規作成）
