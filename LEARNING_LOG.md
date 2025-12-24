@@ -181,3 +181,28 @@
 
 - html-practice/forms.html（内容を更新）
 - html-practice/marathonForm.html（新規作成）
+
+---
+
+## 2025 年 12 月 24 日（水）
+
+### 視聴内容
+
+- Udemy Web Developer Bootcamp
+- 視聴時間：1 時間以上
+
+### 学んだこと
+
+- CSS 入門
+  - section6：CSS のカラーシステム：rgb や名前付きの色まで
+
+### 感想・メモ
+
+- CSS の基本概念と使い方
+- color や background-color
+- コーディング演習 6: はじめての CSS 演習問題
+- CSS のカラーシステム：rgb や名前付きの色
+
+### 作成・更新したファイル
+
+- 動画視聴とコーディング演習で理解できたから無し
